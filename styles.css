@@ -190,6 +190,7 @@ header .container{
     color: #E2E8F0;
     background-color: #48BB78;
     padding: 30px;
+    clear: both;
 }
 
 .newsletter .container{
